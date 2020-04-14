@@ -24,9 +24,11 @@ the configuring portal.
 
 ## Connections
 Connect the relay boards relays to pins D1 and D2 and the microswitch to D5. These can also be configured with in the code.
-`#define TV_DOWN   PIN_D1        // TVlift down, pulse for 500 msec`
-`#define TV_UP     PIN_D2        // TVlift up, pulse for 500 msec`
-`#define TV_STATE  PIN_D5        // TVlift state, open/low = down, closed/high = up`
+```
+#define TV_DOWN   PIN_D1        // TVlift down, pulse for 500 msec
+#define TV_UP     PIN_D2        // TVlift up, pulse for 500 msec
+#define TV_STATE  PIN_D5        // TVlift state, open/low = down, closed/high = up
+```
 
 For the microswitch, place a 10k resistor between ground and the pin you chose for TV_STATE (D5). the other end of the switch connects to 3V3.
 

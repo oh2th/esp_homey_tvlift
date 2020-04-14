@@ -82,7 +82,7 @@ The web GUI should be self explanatory.
 There's almost no sanity checks for the data sent from the forms. This is not a public web service and if you
 want to mess up your board or make a denial of service to it using eg. buffer overflows, feel free to do so.
 
-Currently the configuration portal only configures the WiFi. Plans are to add Homey device name configuation also.
+Currently the configuration portal only configures the WiFi. Plans are to add Homey device name configuration also.
 
 Credits for the configuration portal mode goes to [Mikko](https://github.com/oh2mp/).
 

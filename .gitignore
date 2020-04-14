@@ -33,3 +33,7 @@
 
 # Text files as being exmples
 *.txt
+
+# GIT configurations
+.gitignore
+.gitattributes

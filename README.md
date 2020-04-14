@@ -39,7 +39,8 @@ also changed from the code, see row `#define APREQUEST PIN_D6`
 The Homey side of this code brings an onoff capability that can be used in Homey flow cards.
 
 The out of the box Homeyduino cards are:
-Trigger cards:
+
+### Trigger cards:
 - Turned on / off
 - All triggers
 - Trigger `[number]`
@@ -48,7 +49,8 @@ Trigger cards:
 - Trigger
 - Digital input
 - Analog input
-Condition cards:
+
+### Condition cards:
 - Is turned on
 - Condition `[number]`
 - Condition `[text]`
@@ -57,7 +59,8 @@ Condition cards:
 - Digital pin
 - Analog input is greater than
 - Analog input equals
-Action cards:
+
+### Action cards:
 - Turn on / off
 - Toggle on or off
 - Action `[number]`

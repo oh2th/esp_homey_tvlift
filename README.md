@@ -95,5 +95,5 @@ The portal saves all configurations onto the SPIFFS filesystem. They are just te
 See [FORMATS.md](FORMATS.md).
 
 ## Some pics of the project
-![esp_homey_tvlift](esp_homey_tvlift.jpg)
-![Flatlift-controlbox](Flatlift-controlbox.jpg)
+![esp_homey_tvlift](s/esp_homey_tvlift.jpg)
+![Flatlift-controlbox](s/Flatlift-controlbox.jpg)
